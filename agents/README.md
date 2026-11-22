@@ -75,4 +75,4 @@ Developed as an AI-powered multi-agent customer support system.
 ![Complaint History](screenshots/complaint_history.png)
 
 ### Admin Management
-![Admin Management](screenshots/admin_management.png)
+![Admin Management](screenshots/admin.png)
