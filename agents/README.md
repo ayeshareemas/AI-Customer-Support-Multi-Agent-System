@@ -1,38 +1,55 @@
-AI Customer Support System
+AI Customer Support Multi-Agent System
 
-An AI-powered customer support application built using Python and Streamlit.
+An AI-powered customer support application built using Python, Streamlit, Machine Learning, and Generative AI.
 
 Features
 
-- AI Complaint Analysis
-- Complaint Category Prediction
-- Sentiment Analysis
-- Priority Prediction
-- Order Verification
-- Gemini AI-generated Customer Responses
-- Damage Report Management
-- Refund Management
-- Replacement Request Management
-- Complaint History
-- Admin Management
+- AI Complaint Analysis – Automatically categorizes complaints.
+- Priority Prediction – Predicts Low, Medium, or High complaint priority.
+- Sentiment Analysis – Analyzes customer sentiment.
+- AI Chatbot – Provides customer support using Groq LLM.
+- Order Verification – Verifies customer order details.
+- Complaint Management – Submit, track, and manage complaints.
+- Duplicate Detection – Detects duplicate complaints.
+- Refund & Replacement – Supports refund and replacement requests.
+- Damage Report – Handles product damage reports.
+- Policy Agent – Provides policy-related assistance.
+- Response Agent – Generates customer responses.
+- Admin Dashboard – Displays analytics and complaint statistics.
 
 Technologies Used
 
 - Python
 - Streamlit
-- SQLite
-- Machine Learning
-- Google Gemini API
+- Scikit-learn
 - Pandas
+- SQLite
+- Groq API
+- TF-IDF
+- Logistic Regression
 
-How to Run
+Machine Learning Models
 
-1. Install the required Python packages.
-2. Configure your Gemini API key in the ".env" file.
-3. Run the application:
+- Complaint Classification Model
+- Priority Prediction Model
+- Sentiment Analysis Model
 
-python -m streamlit run app.py
+Installation
 
-Project Purpose
+git clone https://github.com/ayeshareemas/AI-Customer-Support-Multi-Agent-System.git
 
-To simplify customer support operations using machine learning and generative AI.
+cd AI-Customer-Support-Multi-Agent-System
+
+pip install -r requirements.txt
+
+Run Application
+
+streamlit run app.py
+
+Project Type
+
+Final Year Academic Project
+
+---
+
+Developed as an AI-powered multi-agent customer support system.
