@@ -53,20 +53,26 @@ Final Year Academic Project---
 Developed as an AI-powered multi-agent customer support system.
 ## Project Screenshots
 
-### Dashboard
-![Customer support dashboard displaying an overview of the AI support system and its complaint activity](screenshots/dashboard.png)
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard.png)
 
 ### AI Complaint Analysis
-![Complaint analysis screen showing the AI assessment of a customer complaint](screenshots/complaint_analysis.png)
+![AI Complaint Analysis](screenshots/complaint_analysis.png)
 
-### AI Chatbot
-![AI chatbot screen showing a customer support conversation in the application](screenshots/chatbot.png)
+### AI Customer Support Chatbot
+![AI Customer Support Chatbot](screenshots/chatbot.png)
 
 ### Complaint Tracking
-![Complaint tracking screen showing the status and details of submitted customer complaints](screenshots/complaint_tracking.png)
+![Complaint Tracking](screenshots/complaint_tracking.png)
 
 ### Refund Management
-![Refund management screen showing refund request information in the customer support application](screenshots/refund.png)
+![Refund Management](screenshots/refund.png)
 
-### Admin Dashboard
-![Administrator dashboard displaying customer support and complaint management information](screenshots/admin.png)
+### Damage Product Report
+![Damage Product Report](screenshots/damage_product.png)
+
+### Complaint History
+![Complaint History](screenshots/complaint_history.png)
+
+### Admin Management
+![Admin Management](screenshots/admin_management.png)
