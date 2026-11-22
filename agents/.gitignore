@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+customer_support.db
+complaints.csv
+uploaded_damage_images/

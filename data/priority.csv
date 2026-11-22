@@ -1,0 +1,184 @@
+complaint,priority
+My product is slightly scratched,Low
+I have a general question about my order,Low
+Please provide my invoice,Low
+I need information about the product,Low
+Can you explain the return policy,Low
+I want to know my delivery date,Low
+Please update my order details,Low
+I have a small payment query,Low
+I need help with product information,Low
+Please contact me regarding my order,Low
+My order delivery is delayed by two days,Medium
+I received the wrong product,Medium
+My refund has not been processed,Medium
+The package is missing an accessory,Medium
+I cannot track my shipment,Medium
+The product quality is poor,Medium
+My payment was deducted twice,Medium
+I received an incomplete order,Medium
+The replacement is taking too long,Medium
+My order status has not changed,Medium
+My expensive product arrived completely broken,High
+I urgently need a refund for my damaged order,High
+My order is missing and support is not responding,High
+I was charged multiple times and lost money,High
+The wrong medicine was delivered,High
+My account has been charged without permission,High
+The product is dangerous and damaged,High
+My urgent replacement request was ignored,High
+I lost a large amount due to payment failure,High
+My delivery issue is causing an emergency,High
+Could you tell me more about this product,Low
+I have a question about the warranty,Low
+Please send the user manual,Low
+I need the product specifications,Low
+Can I change my delivery preference,Low
+Please clarify the order confirmation,Low
+I would like to know the available colors,Low
+How do I use this product,Low
+Please share the invoice copy,Low
+I need help understanding the features,Low
+Can you confirm my order details,Low
+I have a basic query about my purchase,Low
+Please explain how to return an item,Low
+I want to check the product dimensions,Low
+Can you tell me the estimated delivery date,Low
+I need assistance updating my address before shipping,Low
+Please provide information about payment methods,Low
+I have a question about the warranty period,Low
+Could you help me find the product instructions,Low
+I want to know whether this item is available,Low
+Please clarify a minor detail in my order,Low
+I need a copy of the receipt,Low
+Can you explain the exchange policy,Low
+Please tell me how to track my order,Low
+I want to confirm the color I selected,Low
+I have a simple question about packaging,Low
+Please help me understand the product description,Low
+I need information about accessories,Low
+Could you confirm the delivery address,Low
+Please share the care instructions,Low
+I have a general account question,Low
+Can I get details about the return window,Low
+Please update my contact preference,Low
+I want to check the product size chart,Low
+Could you provide more information about this item,Low
+Please clarify the billing details on my invoice,Low
+I have a small question about the order,Low
+Can you tell me the store opening hours,Low
+Please explain how the loyalty points work,Low
+I want to ask about a routine order update,Low
+Could you confirm whether my order was placed,Low
+Please help me with a product enquiry,Low
+I need the receipt for my purchase,Low
+Can you clarify the shipping options,Low
+Please share the warranty terms,Low
+I have a minor question about the packaging,Low
+Please confirm the model number,Low
+Can you explain the payment options,Low
+I want to know the return procedure,Low
+Please help me check a product detail,Low
+Could you provide the invoice format,Low
+I have a routine delivery question,Low
+My package is delayed by several days,Medium
+The item I received is not the one I selected,Medium
+My refund is still pending after the promised date,Medium
+The order arrived without one of the accessories,Medium
+Tracking information is unavailable for my shipment,Medium
+The product has a quality issue,Medium
+I was billed twice for the same order,Medium
+Part of my order is missing,Medium
+My replacement shipment has not arrived,Medium
+My order tracking has not updated in a week,Medium
+The delivered item has the wrong size,Medium
+The refund status has not changed,Medium
+The courier delivered only one of two items,Medium
+I cannot access the shipment tracking page,Medium
+The product is not working as expected,Medium
+My payment is showing pending for too long,Medium
+The order arrived with missing components,Medium
+The exchange request has not been updated,Medium
+I received an item with a minor defect,Medium
+The parcel was delivered to the wrong location,Medium
+My return pickup has been postponed,Medium
+I have not received the refund confirmation,Medium
+The order contains fewer items than I paid for,Medium
+The courier keeps rescheduling delivery,Medium
+The product received does not match the listing,Medium
+My replacement request is still pending,Medium
+The payment confirmation is missing,Medium
+My package arrived late and incomplete,Medium
+The refund is delayed beyond the normal time,Medium
+I need help resolving a shipping problem,Medium
+The product has a noticeable quality problem,Medium
+The return status is stuck,Medium
+My shipment is delayed and tracking is unclear,Medium
+The invoice amount seems incorrect,Medium
+The delivered item is missing a part,Medium
+The courier has not responded to my delivery issue,Medium
+The order was partially fulfilled,Medium
+My exchange has been pending for days,Medium
+The product is damaged but still usable,Medium
+I cannot complete a return request online,Medium
+The package arrived later than expected,Medium
+The payment status needs clarification,Medium
+I received the wrong variation of the product,Medium
+My delivery was marked complete but I cannot find it,Medium
+The refund processing time has exceeded the estimate,Medium
+The item arrived with a missing accessory,Medium
+The tracking page shows conflicting updates,Medium
+My order was delivered incomplete,Medium
+The replacement item has a minor defect,Medium
+The return pickup has not been scheduled,Medium
+The delivery delay is affecting my plans,Medium
+My costly item arrived shattered and unusable,High
+Please urgently refund my damaged purchase,High
+My shipment is missing and I cannot get customer support,High
+I have been charged repeatedly for the same purchase,High
+I received a potentially unsafe item,High
+There are unauthorized charges on my account,High
+The damaged product poses a safety risk,High
+My urgent complaint has been ignored repeatedly,High
+A large payment was deducted but my order failed,High
+This delivery issue is critical and time-sensitive,High
+My premium device arrived completely unusable,High
+I need immediate help with a serious billing error,High
+My order is lost and the seller has not responded,High
+I was charged without making this purchase,High
+The product overheated and was damaged,High
+My refund for a high-value order is overdue,High
+The wrong critical item was delivered and I need urgent resolution,High
+Multiple unauthorized transactions appeared on my account,High
+The item is broken and could cause injury,High
+My urgent replacement was promised but never sent,High
+A significant amount was debited and no order was created,High
+My account payment details appear to have been misused,High
+The product is severely damaged and unsafe to use,High
+Support has ignored my repeated urgent requests,High
+My high-value order disappeared during delivery,High
+I need immediate assistance with duplicate high charges,High
+The package contained a dangerous defective product,High
+The order was not delivered and the payment was substantial,High
+My refund is overdue and the amount is significant,High
+The item arrived broken and I cannot use it at all,High
+I suspect fraud due to an unexpected charge,High
+The damaged appliance may be unsafe to operate,High
+My urgent payment dispute has not been resolved,High
+I lost a substantial amount after checkout failed,High
+The delivery contains an unsafe or defective item,High
+My account was charged several times unexpectedly,High
+The product defect creates a safety concern,High
+My high priority replacement is still unresolved,High
+The shipment is missing and the financial loss is serious,High
+An unauthorized payment was taken from my account,High
+The item arrived badly damaged and unusable,High
+I need urgent help because I was charged but received nothing,High
+My costly order is missing and no one has replied,High
+The product is unsafe and I need immediate support,High
+A serious payment error has caused financial loss,High
+My damaged item needs urgent attention,High
+The refund for my expensive order has been delayed,High
+The delivered product is defective and potentially hazardous,High
+My repeated urgent requests have gone unanswered,High
+My account has suspicious charges that I did not approve,High

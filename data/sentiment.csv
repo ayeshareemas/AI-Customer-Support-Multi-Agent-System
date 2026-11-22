@@ -1,0 +1,25 @@
+text,sentiment
+I am very happy with your service,Positive
+Thank you for helping me,Positive
+Your support was excellent,Positive
+I received my order safely,Positive
+I am satisfied with the product,Positive
+The delivery was very good,Positive
+I appreciate your quick response,Positive
+Everything is working perfectly,Positive
+I am very angry about this service,Negative
+My product arrived damaged,Negative
+I am disappointed with your delivery,Negative
+I want my money back,Negative
+This is a terrible experience,Negative
+My order is still missing,Negative
+I received a broken product,Negative
+Your service is very poor,Negative
+Where is my order,Neutral
+Can you check my order status,Neutral
+I need information about delivery,Neutral
+Please explain the refund process,Neutral
+What is the return policy,Neutral
+I have a question about my payment,Neutral
+When will my package arrive,Neutral
+Please provide more details,Neutral
